@@ -34,7 +34,6 @@ vertical-align:top
 <p>Hello my name is mohamed mudhir, this is my game that i created for java2022</p>
 </td>
 <td>
-<img src="imageofme.png" width=300px></img>
 </td>
 </tr>
 <tr>
@@ -73,10 +72,7 @@ Check out the video <a href="<iframe width="640" height="360" src="https://web.m
 
 
 <tr>
-<td colspan = 2 align=center>
-<img src="pic1.png" width="285px"></img>
-<img src="pic2.png" width="265px"></img>
-<img src="pic3.png" width="255px"></img>
+<td>
 </td>
 </tr>
 </tr>
