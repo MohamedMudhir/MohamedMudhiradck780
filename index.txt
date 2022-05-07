@@ -30,9 +30,8 @@ vertical-align:top
 <table width= 1000px>
 <tr>
 <td class="infotd">
-<h3>Gabriel Maharaj</h3>
-<p>Hello I'm Gabriel before starting university I worked through 15 hours of a 25 hour java course.
-I have interests such as expert level yoyo skills and juggling. I also read often, currently I am reading deep work by Cal Newport</p>
+<h3>Mohamed Mudhir</h3>
+<p>Hello my name is mohamed mudhir, this is my game that i created for java2022</p>
 </td>
 <td>
 <img src="imageofme.png" width=300px></img>
@@ -50,14 +49,14 @@ I have interests such as expert level yoyo skills and juggling. I also read ofte
 <td class="infotd">
 <h3>Java game 2022</h3>
 <p>
-As part of my Java education at university. We made 2D games built off of an engine made by the city's staff which was basedof the box 2D engine. The game includes finite state machines and uses the java abstract window tool kit.
+As part of my Java learining experience at university, we have created a project that increased my skills. Overall increasing my knowledge on how to use a specific library that got handed to me.
 
 </p>
 
 
 
 <p>
-Check out the code on Github: <a href="https://github.com/cityteaching/citygame2122-GabrielMaharaj">https://github.com/cityteaching/citygame2122-GabrielMaharaj/</a>
+Check out the code on Github: <a href="https://github.com/cityteaching/citygame2122-MohamedMudhir">https://github.com/cityteaching/citygame2122-MohamedMudhir/</a>
 </p>
 
 
